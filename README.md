@@ -79,4 +79,4 @@ rm -f setup.sh && apt update -y && apt-get update -y && sysctl -w net.ipv6.conf.
 ------------
 **Telegram ku**
 ------------
-[HT Cloud](https://t.me/aixxy7)
+[Aixxy](https://t.me/aixxy7)
